@@ -1,0 +1,26 @@
+{
+  "name": "interviewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@langchain/core": "^0.3.72",
+    "@langchain/google-genai": "^0.2.16",
+    "@langchain/langgraph": "^0.4.8",
+    "@langchain/openai": "^0.6.9",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "drizzle-orm": "^0.44.5",
+    "langchain": "^0.3.31",
+    "pg": "^8.16.3",
+    "readline-sync": "^1.4.10",
+    "uuid": "^11.1.0"
+  }
+}

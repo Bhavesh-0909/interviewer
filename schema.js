@@ -1,4 +1,3 @@
-// schema.js
 import { pgTable, serial, varchar, timestamp, jsonb } from "drizzle-orm/pg-core";
 
 export const problems = pgTable("problems_dataset", {

@@ -18,7 +18,6 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "drizzle-orm": "^0.44.5",
-    "langchain": "^0.3.31",
     "pg": "^8.16.3",
     "readline-sync": "^1.4.10",
     "uuid": "^11.1.0"
